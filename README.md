@@ -1,6 +1,8 @@
 ### Hi there, I'm Toki.
 
-I like solidity and some stuff..
+I like blockchain development.
+
+DM me discord Toki#7075.
 
 <!--
 
