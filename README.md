@@ -1,6 +1,6 @@
 ### Hi there, I'm Toki.
 
-I like blockchain development.
+I like blockchain development. Solidity, MEV, dApps.
 
 DM me discord Toki#7075.
 
