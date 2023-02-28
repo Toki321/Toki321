@@ -1,6 +1,6 @@
 ### Hi there, I'm Toki.
 
-I like blockchain development. Interested in defi, solidity, MEV, dApps. 3rd semestar SWE
+I like blockchain development. Interested in defi, solidity, MEV, dApps. 4th semestar SWE
 
 DM me discord Toki#7075.
 
