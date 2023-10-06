@@ -4,6 +4,7 @@ I like blockchain development. Interested in defi, solidity, MEV, dApps
 
 DM me discord Toki#7075.
 
++ https://github.com/tokikuma
 <!--
 
 Here are some ideas to get you started:
