@@ -1,8 +1,6 @@
-### Hi there, I'm Toki.
+### Hi, I'm Toki.
 
 I like blockchain development. Interested in defi, solidity, MEV, dApps
-
-DM me discord Toki#7075.
 
 also https://github.com/tokikuma
 <!--
