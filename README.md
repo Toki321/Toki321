@@ -1,8 +1,6 @@
 ### Hi, I'm Toki.
 
 I like blockchain development. Interested in defi, solidity, MEV, dApps
-
-also https://github.com/tokikuma
 <!--
 
 Here are some ideas to get you started:
