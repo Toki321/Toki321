@@ -1,6 +1,6 @@
-### Hi, I'm Toki.
+Rust, Node, Solidity
+MEV
 
-I like blockchain development. Interested in defi, solidity, MEV, dApps
 <!--
 
 Here are some ideas to get you started:
