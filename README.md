@@ -1,5 +1,4 @@
-Rust, Node, Solidity
-MEV
+Rust, Node, Solidity, MEV
 
 <!--
 
