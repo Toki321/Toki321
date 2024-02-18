@@ -1,4 +1,4 @@
-Rust, Node, Solidity, MEV
+Rust, Typescript, Solidity, MEV
 
 <!--
 
